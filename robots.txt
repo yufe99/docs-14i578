@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://blog-p6vf0a.hartawin.site/sitemap.xml
